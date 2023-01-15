@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://cdn.dribbble.com/userupload/3251767/file/original-a70eb5037e97cb10f97d569f1cfb07b7.jpg?compress=1&resize=752x" align="center" style="width: 100%" />
+<img src="https://cdn2.hubspot.net/hub/7379058/hubfs/20210824_Q3_Blog%20Featured%20Image.gif?width=750&name=20210824_Q3_Blog%20Featured%20Image.gif" align="center" style="width: 100%" />
 </div>  
   
   ### Hi there 👋
