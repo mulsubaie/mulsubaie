@@ -1,9 +1,9 @@
+  ### Hi there 👋
 
 <div align="center">
 <img src="https://cdn2.hubspot.net/hub/7379058/hubfs/20210824_Q3_Blog%20Featured%20Image.gif?width=750&name=20210824_Q3_Blog%20Featured%20Image.gif" align="center" style="width: 100%" />
 </div>  
   
-  ### Hi there 👋
 
 ### <div align="center">I'm Muyul, Interested in SWE and Data Analysis 💻</div>  
   
